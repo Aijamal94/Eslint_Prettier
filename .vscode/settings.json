@@ -1,4 +1,3 @@
-{
     "editor.fontSize": 12,
     "files.encoding": "utf8", // кодировка файлов
     "files.eol": "\n", // концы строк как в linux
@@ -94,4 +93,3 @@
     "code-eol.newlineCharacter": "↓",
     "code-eol.crlfCharacter": "←↓",
     "code-eol.highlightNonDefault": true,
-}
