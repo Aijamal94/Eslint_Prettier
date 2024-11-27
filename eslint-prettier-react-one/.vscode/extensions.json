@@ -1,8 +1,0 @@
-{
-    "recommendations": [
-        "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode",
-        "medo64.render-crlf",
-        "ritwickdey.LiveServer"
-    ]
-}
