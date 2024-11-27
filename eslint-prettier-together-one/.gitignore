@@ -1,0 +1,9 @@
+# Visual Code (vcode)
+/.vscode
+
+/node_modules
+*.json
+
+# Файлы, которые необходимо исключить из игнорирования
+!package.json
+!.eslintrc.json
